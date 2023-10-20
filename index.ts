@@ -6,3 +6,4 @@ const appDiv: HTMLElement = document.getElementById('app');
 appDiv.innerHTML = `<h1>TypeScript Starter</h1>`;
 
 // example commit
+// pull request
